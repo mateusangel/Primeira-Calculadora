@@ -1,0 +1,57 @@
+body{
+   background: red;
+}
+
+.cal{
+   border: 1px solid;
+   position: absolute;
+   right: 45%;
+   bottom: 36%;
+   border-radius: 4px;
+   background-color: rgba(0, 0, 0, 0.39) ;
+
+   
+   
+
+}
+
+.butao{
+   width: 35px;
+   margin: 1px;
+   height: 35px;
+   border: none;
+   cursor: pointer;
+   background-color: rgba(0, 0, 0, 0.39) ;
+   color: white;
+
+
+}
+.butao:hover{
+   background-color: rgba(238, 234, 234, 0.384);
+}
+
+h2 ,p { color: white;
+}
+
+h2{
+   margin-top: auto;
+}
+
+.igual{
+   height: 70px;
+}
+
+.zero{
+   width: 70px;
+}
+
+#resultado{
+   margin: 10px 6px;
+   width: 164px;
+   height: 25px;
+   background-color: white;
+   font-size: 19px;
+   text-align: right;
+   color: black;
+  padding: 2px;
+}
